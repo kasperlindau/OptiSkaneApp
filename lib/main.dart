@@ -261,7 +261,7 @@ class _MyAppState extends State<MyApp> {
   // Shared preferences
   late SharedPreferences prefs;
   List<GeoPoint> recentSearches = [];
-  List<GeoPoint> searchBookmarks = [GeoPoint("Hem", "", 55.65102, 13.10710),
+  List<GeoPoint> searchBookmarks = [GeoPoint("Hem", "", 0, 0),
                                     GeoPoint("LTH", "", 55.71125, 13.20989)];
 
   // MapBox search API
