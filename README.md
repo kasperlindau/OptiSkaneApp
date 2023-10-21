@@ -9,7 +9,7 @@ The goal of this app was to ONLY use free services. That was easier said than do
 * [GoogleMaps](https://pub.dev/packages/google_maps_flutter) for the interactive map
 * [GeoCoding](https://pub.dev/packages/geocoding) for coordinates to address conversion
 
-The design itself is heavily inspired by combining Google Maps with Skånetrafikens apps and adding a small touch. 
+The design itself is heavily inspired by combining Google Maps with Skånetrafikens app. 
 
 # Features
 * Tap on the map to perform a search
